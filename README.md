@@ -7,3 +7,4 @@ MCP (Model Context Protocol) MCP Forecast is a MCP server application that provi
 - Weather forecast
 
 
+
